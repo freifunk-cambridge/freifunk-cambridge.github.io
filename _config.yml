@@ -1,5 +1,5 @@
 title: Freifunk Cambridge
-description: 
+description: Free WiFi networks in and around Cambridge 
 remote_theme: BDHU/minimalist
 plugins:
 - jekyll-remote-theme
@@ -7,6 +7,8 @@ plugins:
 sidebar:
   - name: Get involved
     link: https://cambridge.freifunk.net/get-involved
+  - name: Existing Free WiFi networks
+   link: https://cambridge.freifunk.net/existing 
   - name: About
     link: https://cambridge.freifunk.net/about
   - name: Mailing list
