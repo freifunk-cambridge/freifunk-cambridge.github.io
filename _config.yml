@@ -1,0 +1,11 @@
+title: Freifunk Cambridge
+description: 
+remote_theme: BDHU/minimalist
+plugins:
+- jekyll-remote-theme
+
+sidebar:
+  - name: Get involved
+    link: https://cambridge.freifunk.net/get-involved
+  - name: About
+    link: https://cambridge.freifunk.net/about
