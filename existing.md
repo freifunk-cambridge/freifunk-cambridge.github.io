@@ -25,16 +25,43 @@ This is another network which can be found in various restaurants, shops and oth
 Coverage is decreasing, though, as increasingly businesses are opting out to so they can use their own network.
 The network is provided by the telephone company o2, and is typically rather slow (under 10 MBPS). It also has by far the worst registration process on this list, requiring a verified phone number, your name, your email, your postcode, your date of birth and even more personal data, so we recommend not to use this unless you really have to.
 
+## _The Cloud (mostly gone)
+The University used to have a much more limited WiFi service running under the name "_The Cloud". It was in very select locations only and required a super long registration, so you'll be glad to hear it's now mostly gone. Restaurants including wagamama and Pret have also chosen to opt-out.
+But, you will find at a few businesses who still choose to use it (examples include Café Nero and Greggs). 
+If you you really must use it, just give fake data. Sky (the provider) actually sell the data you enter, so you can see why this has lost popularity after that knowledge went public. But it is free to use, though, so if you really must do it enter fake data and you will be fine. Just remember to click "Forget device" on their login page at wifi.sky.com after you disconnect, otherwise you're trading automatic log-in for being tracked around the country.
+There is the [info page](https://sky.com/wifi), but you will likely not need it.
+
 ## Other options
 Below we have listed a few other handy options that don't qualify for the list above
 
 ### Cafés, restaurants, coffee shops
 Although not a specific network, you'll find that many cafés, coffee shops and restaurants in the city will provide free WiFi to their customers. In some you'll need to ask for a password, while in others the network may require registration via an online form. Many cafés in the city centre are also unintentially covered by the University Public WiFi too, so you may be able to continue to use the same network in a café, in a college, and outdoors as well.
 
+### 4G and 5G
+If you find yourself needing mobile internet a lot, there is good coverage on 4G, and even some 5G as well, in Cambridge. You will need to either get a phone contract or get a free pay-as-you-go SIM (which you will need to top up before use).
+
+## What NOT to connect to
+Honestly, don't connect to these ones! Read our advice to find out why not.
+
 ### BT WiFi (paid but pretending to be open)
 As you travel around Cambridge, you're bound to see "BTWi-fi" pop up in your network list sooner or later. You may think "Well it's open so why not?"
 
 We'll tell you why not. Once selected, you'll be redirected to a log-in page where you either have to sign in if you're a BT customer, or buy access if not.
+If you're connecting to a free BT hotspot offered by one of BT's partners, this can be pretty good. You'll be taken to a log-in page with "Free access" as the top option. It will be free, often with no registration, and you may get proper speeds too. But if the network is called exactly "BTWi-fi", it's not free.
+Here are some examples of network names to connect to and ones to avoid:
+
+#### Free
+- _BTWi-fi (the underscore at the beginning signifys free)
+- Any partner network (e.g. Tesco Wifi, _NatWest_FreeWiFi, Waitrose-BTWiFi, John-Lewis-WiFi-by-BTOpenzone)
+
+#### Paid
+- BTWi-Fi
+- BTWiFi
+- BTOpenzone
+- BTOpenzone-B
+- BTOpenzone-H
+- BTWiFi-with-FON
+
 And look at the prices, they're crazy for slow WiFi anyway!
 - 1 hour: £4.99
 - 1 day: £7.99
@@ -47,3 +74,8 @@ As a BT customer I have had free access to this network so have had a chance to 
 Once you select "BTWi-fi" once, BT bank on the fact you won't forget the network and will just close the payment page. In this case, the page will pop up automatically when you're in a coverage area, so you'll have to close it each time. So if you've accidentally clicked on this network, you should click that "Forget" button as soon as possible.
 
 A much better connectivity option is 4G. It costs about the same for a month of 4G or a couple of days of BT WiFi, and 4G truely is nearly everywhere. So if you are looking for internet everywhere 4G is the answer, not BT WiFi.
+
+### Virgin Media (although thankfully it's secure anyway)
+Virgin Media, another broadband provider, also has a network broadcasting from their customer's routers for other customers to use. But, luckily, this one is secured so you won't just connect by accident. 
+There's also no option to buy access, and only other Virgin Media customers or customers abroad of partner providers can access it.
+If you do have access to this for free, we can't recommend for you to never use it, as it won't cost you anything. But you'll get pretty low speeds and it probably won't be the best WiFi.
