@@ -40,6 +40,16 @@ Although not a specific network, you'll find that many cafés, coffee shops and 
 ### 4G and 5G
 If you find yourself needing mobile internet a lot, there is good coverage on 4G, and even some 5G as well, in Cambridge. You will need to either get a phone contract or get a free pay-as-you-go SIM (which you will need to top up before use).
 
+### eduroam
+Eduroam really is the best network in Cambridge. It (almost) has city-wide coverage, and in ideal conditions speeds of over 700 MBPS can be reached. Coverage contributed by three academic institutions combined makes it seamless as you move around the city, changing routers as you move around. And unlike the University Public WiFi, eduroam really does cover every single college.
+
+But, unfortunately, there's one huge downside: it's only accessible to you if you're part of an institution which takes part in it.
+So if you're studying at university you will likely have access, but apart from that you won't be able to get onto this one unfortunately.
+Some university cafés have previously given out 1-day WiFi access vouchers meant for the "UniOfCam" WiFi service which also work on eduroam, but these are being phased out as the new university Public WiFi is used more widely.
+If you are lucky enough to get one of these 1-day tickets, you can connect to eduroam for 24 hours on an unlimited number of devices.
+Just enter ticketid@wireless.cam.ac.uk in the Username box where ticketid is the long number on your ticket (e.g. 300-123-456) and enter your ticket's password in the password box.
+You'll be connected, but it will only work for eduroam provided by the University of Cambridge. eduroam networks of other institutions will not accept the credentials.
+
 ## What NOT to connect to
 Honestly, don't connect to these ones! Read our advice to find out why not.
 
