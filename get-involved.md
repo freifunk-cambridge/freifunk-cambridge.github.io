@@ -15,9 +15,10 @@ Our planned next steps are:
   - Explore the possibilities for where this external gateway could be hosted. We have so far established this will need 1 public IPv4 address, and a minimum of a /64 of IPv6 address space (preferably a /56).
   - Configure the gateway with an initial testing network.
   - Create our first customised version of the Gluon firmware (with minimal changes at this stage). We plan to use WireGuard for the VPN connections back from participant nodes, and BATMAN as the routing algorithm.
+  - Build an initial proof of concept using a local virtual machine, Raspberry Pi or similar. Ensure it can connect back to the central gateway, and be assigned both an IPv4 RFC1918 address, and IPv6 address.
   - Prepare firmware builds, starting with 1 or 2 common device types (likely Ubiquiti, TP-Link and similar) and expanding at a later stage.
   - Host a couple of test nodes ourselves, and invite other users to join in at this early stage of network development.
-  - Develop and offer other suppplementary services, such as a dedicated firmware downloads page, node map, wiki and more.
+  - Work on offering other suppplementary services, such as a dedicated firmware downloads page, node map, wiki and more.
 
 
 We're currently at the stage where any expressions of interest would very much be welcome, whether from potential participants or help/advice from existing Freifunk communities. 
