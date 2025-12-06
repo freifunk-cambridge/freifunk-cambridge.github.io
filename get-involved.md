@@ -9,7 +9,7 @@ The core aims of this would be to:
   - Extend internet access to anyone who may not have the opportunity to afford their own connections, such as lower-income groups and people living in temporary accomodation.
   - Build a redundant network with multiple exit points contributed by users. This will ensure efficient routing of traffic destined for the wider internet, and make the network resilient to a single Internet provider outage.
 
-For the first stages of the network, we're exploring the possibility of tunnelling traffic to an out-of-region, central gateway. This would greatly simplify the operation at this early stage, and would mitigate any risks of the activity of users being linked to the connections of node operators.
+For the first stages of the network, we're exploring the possibility of tunnelling traffic to an out-of-region, single central gateway. This would greatly simplify the operation at this early stage, and would mitigate any risks of the activity of users being linked to the connections of node operators.
 
 Our planned next steps are:
   - Explore the possibilities for where this external gateway could be hosted. We have so far established this will need 1 public IPv4 address, and a minimum of a /64 of IPv6 address space (preferably a /56).
@@ -19,6 +19,7 @@ Our planned next steps are:
   - Prepare firmware builds, starting with 1 or 2 common device types (likely Ubiquiti, TP-Link and similar) and expanding at a later stage.
   - Host a couple of test nodes ourselves, and invite other users to join in at this early stage of network development.
   - Work on offering other suppplementary services, such as a dedicated firmware downloads page, node map, wiki and more.
+  - Improve resiliency by hosting multiple gateways, and work towards running these on colocated servers in local data centers (Net Servers, Redcentric, etc).
 
 
 We're currently at the stage where any expressions of interest would very much be welcome, whether from potential participants or help/advice from existing Freifunk communities. 
