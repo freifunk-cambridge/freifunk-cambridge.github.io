@@ -10,9 +10,9 @@ To qualify for this list, WiFi networks must:
 ## UniOfCam-Guest
 This is the University's public WiFi service, covering every single university department in Cambridge, most of the colleges, and even some outdoor spaces such as Parkers Piece and Jesus Green. It is likely the public WiFi network with the most coverage in the city.
 
-Registration is required, and you can register with either an email address or a social media account. Once you register once, your device will be remembered for future connections.
-There is also a speed limit on the connection imposed by the university (up to 25 MBPS download and 15 MBPS upload), but this shouldn't be an issue unless you're trying to do very data-heavy tasks.
-You can find [instructions on the University website](https://help.uis.cam.ac.uk/service/wi-fi/connect-uniofcam-guest) regarding how to connect.
+No registration is required, you just need to agree to the University's Terms and Conditions to access the service. You will then be remembered for 7 days, at which point you'll need to click "Log in" again to start another 7-day session.
+There is a speed limit on the connection imposed by the university (up to 75 MBPS download and 50 MBPS upload), but this shouldn't be an issue unless you're trying to do very data-heavy tasks.
+You can find [instructions on the University website](https://help.uis.cam.ac.uk/service/wi-fi/connect-uniofcam-guest) regarding how to connect, although it's relatively straightforward.
 
 ## CambWifi_Public
 This is the WiFi service provided by Cambridgeshire County Council at public libraries, sports centres, the Market Square and other places.
@@ -38,26 +38,23 @@ Below we have listed a few other handy options that don't qualify for the list a
 Although not a specific network, you'll find that many cafés, coffee shops and restaurants in the city will provide free WiFi to their customers. In some you'll need to ask for a password, while in others the network may require registration via an online form. Many cafés in the city centre are also unintentially covered by the University Public WiFi too, so you may be able to continue to use the same network in a café, in a college, and outdoors as well.
 
 ### 4G and 5G
-If you find yourself needing mobile internet a lot, there is good coverage on 4G, and even some 5G as well, in Cambridge. You will need to either get a phone contract or get a free pay-as-you-go SIM (which you will need to top up before use).
+If you find yourself needing mobile internet a lot, there is good coverage on 4G, and even quite a lot of 5G as well, in Cambridge. You will need to either get a phone contract or get a free pay-as-you-go SIM (which you will need to top up before use). Mobile data coverage has become so widespread that city-wide public WiFi initiatives have largely been scaled back or turned off (with the exception of University Guest WiFi), so if you need connection in large parts of the city this is now pretty much the only option.
 
 ### eduroam
-Eduroam really is the best network in Cambridge. It (almost) has city-wide coverage, and in ideal conditions speeds of over 700 MBPS can be reached. Coverage contributed by three academic institutions combined makes it seamless as you move around the city, changing routers as you move around. And unlike the University Public WiFi, eduroam really does cover every single college.
+Eduroam really is the best network in Cambridge. It (almost) has city-wide coverage, and in ideal conditions speeds of over 700 MBPS can be reached. Coverage contributed by three academic institutions combined makes it seamless as you move around the city, changing between coverage offered by different buildings, colleges and institutions as you move around. And unlike the University Public WiFi, eduroam really does cover every single college.
 
 But, unfortunately, there's one huge downside: it's only accessible to you if you're part of an institution which takes part in it.
 So if you're studying at university you will likely have access, but apart from that you won't be able to get onto this one unfortunately.
-Some university cafés have previously given out 1-day WiFi access vouchers meant for the "UniOfCam" WiFi service which also work on eduroam, but these are being phased out as the new university Public WiFi is used more widely.
-If you are lucky enough to get one of these 1-day tickets, you can connect to eduroam for 24 hours on an unlimited number of devices.
-Just enter ticketid@wireless.cam.ac.uk in the Username box where ticketid is the long number on your ticket (e.g. 300-123-456) and enter your ticket's password in the password box.
-You'll be connected, but it will only work for eduroam provided by the University of Cambridge. eduroam networks of other institutions will not accept the credentials.
+
 
 ## What NOT to connect to
 Honestly, don't connect to these ones! Read our advice to find out why not.
 
-### BT WiFi (paid but pretending to be open)
-As you travel around Cambridge, you're bound to see "BTWi-fi" pop up in your network list sooner or later. You may think "Well it's open so why not?"
+### EE WiFi (paid but pretending to be open)
+As you travel around Cambridge, you're bound to see "EE WiFi" pop up in your network list sooner or later. You may think "Well it's open so why not?"
 
 We'll tell you why not. Once selected, you'll be redirected to a log-in page where you either have to sign in if you're a BT customer, or buy access if not.
-If you're connecting to a free BT hotspot offered by one of BT's partners, this can be pretty good. You'll be taken to a log-in page with "Free access" as the top option. It will be free, often with no registration, and you may get proper speeds too. But if the network is called exactly "BTWi-fi", it's not free.
+Some businesses do use BT as the provider for a free WiFi connection. However if the network is called exactly "EE WiFi", it's not free.
 Here are some examples of network names to connect to and ones to avoid:
 
 #### Free
@@ -65,7 +62,7 @@ Here are some examples of network names to connect to and ones to avoid:
 - Any partner network (e.g. Tesco Wifi, _NatWest_FreeWiFi, Waitrose-BTWiFi, John-Lewis-WiFi-by-BTOpenzone)
 
 #### Paid
-- BTWi-Fi
+- EE WiFi
 - BTWiFi
 - BTOpenzone
 - BTOpenzone-B
@@ -81,11 +78,6 @@ And look at the prices, they're crazy for slow WiFi anyway!
 And you may think that if you can get WiFi everywhere, then it's worth it. But I can tell you it's really not. What you're actually paying for is the privilege to use someone else's nearby BT home router, and the money doesn't even go to them, it goes to BT.
 As a BT customer I have had free access to this network so have had a chance to try it out. Speeds range from a super-slow 1 MBPS to a much faster 75 MBPS, but there's no way to know what that speed will be until you pay. You are also limited to 30 MBPS download if connecting to a home router, but on a business hub this limit is removed. There's no way to know which type of hub you're connecting to, though. And lastly the person who's hub it is also get's priority over their internet bandwidth, so if they suddenly start using the internet you may find that your speed suddenly drops.
 
-Once you select "BTWi-fi" once, BT bank on the fact you won't forget the network and will just close the payment page. In this case, the page will pop up automatically when you're in a coverage area, so you'll have to close it each time. So if you've accidentally clicked on this network, you should click that "Forget" button as soon as possible.
+Once you select "EE WiFi" once, BT bank on the fact you won't forget the network and will just close the payment page. In this case, the page will pop up automatically when you're in a coverage area, so you'll have to close it each time. So if you've accidentally clicked on this network, you should click that "Forget" button as soon as possible.
 
 A much better connectivity option is 4G. It costs about the same for a month of 4G or a couple of days of BT WiFi, and 4G truely is nearly everywhere. So if you are looking for internet everywhere 4G is the answer, not BT WiFi.
-
-### Virgin Media (although thankfully it's secure anyway)
-Virgin Media, another broadband provider, also has a network broadcasting from their customer's routers for other customers to use. But, luckily, this one is secured so you won't just connect by accident. 
-There's also no option to buy access, and only other Virgin Media customers or customers abroad of partner providers can access it.
-If you do have access to this for free, we can't recommend for you to never use it, as it won't cost you anything. But you'll get pretty low speeds and it probably won't be the best WiFi.
