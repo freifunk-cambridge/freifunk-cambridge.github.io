@@ -1,6 +1,6 @@
 # Get involved
 
-We're currently in the exploratory stage of building a Freifunk-style internet sharing community in Cambridge and surrounding areas. 
+We're currently in the exploratory stage of building a Freifunk-style internet sharing community in Cambridge, UK and the surrounding areas. 
 
 The core aims of this would be to:
 
